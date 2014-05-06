@@ -135,7 +135,10 @@ ul.list-bullets li.bullet-primary {color: #48c;}
 .text-sans {font-family: sans-serif;}
 .text-serif {font-family: georgia, times, serif;}
 .text-mono {font-family: 'Courier New', Courier, monospace;}
-.text-hands {font-family: georgia, times, serif;}
+.text-hands {font-family: cursive;}
+.text-fjalla {font-family: 'Fjalla One', sans-serif;}
+.text-georgia {font-family: Georgia, serif;}
+.text-open_sans {font-family: 'Open Sans', sans-serif;}
 .text-uppercase {text-transform: uppercase;}
 .text-small {font-size: 80%;}
 .text-medium {font-size: 1.5em;}
